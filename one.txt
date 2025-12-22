@@ -4,5 +4,4 @@ This line added through feature/geetha.
 
 Welcome to Git Version Control system
 This is second line for merge demo
-Edited in Git Remote 
 Just for testing  added this line
