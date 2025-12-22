@@ -1,0 +1,12 @@
+# Ignore all .config files
+*.config
+
+# Ignore YAML files
+*.yml
+*.yaml
+
+# Ignore log files
+*.log
+
+# Ignore entire .config folder
+.config/
